@@ -28,21 +28,21 @@
 
 @font-face {
     font-family: 'harmony-regular';
-    src: url('/public/website/font/HarmonyOS_Sans_SC_Regular.ttf') format('truetype');
+    src: url('/website/font/HarmonyOS_Sans_SC_Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'harmony-bold';
-    src: url('/public/website/font/HarmonyOS_Sans_SC_Bold.ttf') format('truetype');
+    src: url('/website/font/HarmonyOS_Sans_SC_Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'harmony-medium';
-    src: url('/public/website/font/HarmonyOS Sans SC Medium.ttf') format('truetype');
+    src: url('/website/font/HarmonyOS Sans SC Medium.ttf') format('truetype');
 }
 
 .navbar {
-    background-image: url("/public/website/image/bg_top.png");
+    background-image: url("/website/image/bg_top.png");
     padding-top: 0px;
     padding-bottom: 0px;
     z-index: 2;
@@ -136,7 +136,7 @@
 .div-with-image-border {
     border-top-width: 10px;
     /* 边框宽度 */
-    border-image-source: url('/public/website/image/howToPlay/slots/kuang.png');
+    border-image-source: url('/website/image/howToPlay/slots/kuang.png');
     /* 边框图片路径 */
     border-image-slice: 30;
     /* 图片边框分割，可以是数值或者百分比 */
@@ -162,7 +162,7 @@
     height: 44px;
     position: absolute;
     top: -23px;
-    background-image: url("/public/website/image/howToPlay/slots/biaoti.png");
+    background-image: url("/website/image/howToPlay/slots/biaoti.png");
     background-size: cover;
     /* 背景图片覆盖整个div */
 }
@@ -291,7 +291,7 @@
 .bg-dh-border {
     border-top-width: 10px;
     /* 边框宽度 */
-    border-image-source: url('/public/website/image/bg_daohang1.png');
+    border-image-source: url('/website/image/bg_daohang1.png');
     /* 边框图片路径 */
     border-image-slice: 30;
     /* 图片边框分割，可以是数值或者百分比 */
@@ -328,7 +328,7 @@
     height: 30px;
     position: absolute;
     top: -23px;
-    background-image: url("/public/website/image/howToPlay/slots/biaoti.png");
+    background-image: url("/website/image/howToPlay/slots/biaoti.png");
     background-size: contain;
     /* 背景图片覆盖整个div */
 }
@@ -344,7 +344,7 @@
 .brand-div-with-image-border {
     border-top-width: 10px;
     /* 边框宽度 */
-    border-image-source: url('/public/website/image/howToPlay/slots/kuang.png');
+    border-image-source: url('/website/image/howToPlay/slots/kuang.png');
     /* 边框图片路径 */
     border-image-slice: 30;
     /* 图片边框分割，可以是数值或者百分比 */
@@ -385,7 +385,7 @@
     position: absolute;
     top: -23px;
     left: -20px;
-    background-image: url("/public/website/image/howToPlay/slots/biaoti.png");
+    background-image: url("/website/image/howToPlay/slots/biaoti.png");
     background-size: contain;
     /* 背景图片覆盖整个div */
 }
@@ -398,7 +398,7 @@
 
 .privacy-div-with-image-border {
     /*border-top-width: 10px; !* 边框宽度 *!*/
-    /*border-image-source: url('/public/website/image/howToPlay/slots/kuang.png'); !* 边框图片路径 *!*/
+    /*border-image-source: url('/website/image/howToPlay/slots/kuang.png'); !* 边框图片路径 *!*/
     /*border-image-slice: 30; !* 图片边框分割，可以是数值或者百分比 *!*/
     /*!*border-image-repeat: repeat; !* 如何填充边框图片 *!*!*/
     /*border-image-outset: 5; !* 边框图片超出边框宽度 *!*/
@@ -421,7 +421,7 @@
 .privacy-box {
     border-top-width: 10px;
     /* 边框宽度 */
-    border-image-source: url('/public/website/image/howToPlay/slots/kuang.png');
+    border-image-source: url('/website/image/howToPlay/slots/kuang.png');
     /* 边框图片路径 */
     border-image-slice: 30;
     /* 图片边框分割，可以是数值或者百分比 */
@@ -443,7 +443,7 @@
 
 .two-main {
     /*background: #6f42c1;*/
-    background-image: url('/public/website/image/bg1.png');
+    background-image: url('/website/image/bg1.png');
     background-size: cover;
     /* 背景图片覆盖整个div */
     padding-bottom: 6.16%;
@@ -472,7 +472,7 @@
 
 .three-main {
     /*background: #6f42c1;*/
-    background-image: url('/public/website/image/bg2.png');
+    background-image: url('/website/image/bg2.png');
     background-size: cover;
     /* 背景图片覆盖整个div */
     padding-bottom: 0.87%;
@@ -498,7 +498,7 @@
 
 .bottom-main {
     /*background: #6f42c1;*/
-    background-image: url('/public/website/image/bg3.png');
+    background-image: url('/website/image/bg3.png');
     background-size: cover;
     /* 背景图片覆盖整个div */
     padding-bottom: 1.124%;
